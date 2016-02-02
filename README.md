@@ -1,6 +1,6 @@
 # spring-framework-2.5
 
-The purpose of this repository is to host a working copy of the Spring Framework 2.5, referenced in the Spring MVC Step by Step tutorial. 
+The purpose of this repository is to host a working copy of the Spring Framework 2.5, referenced in *Spring MVC Step by Step*
 
 http://docs.spring.io/docs/Spring-MVC-step-by-step/
 
